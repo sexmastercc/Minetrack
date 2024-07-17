@@ -1,12 +1,42 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "2b2t",
+		"ip": "2b2t.org",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "7b7t",
+		"ip": "7b7t.net",
+		"type": "PC"
+	},
+	{
+		"name": "6b8t",
+		"ip": "6b8t.xyz",
+		"type": "PC"
+	},
+	{
+		"name": "netherportal",
+		"ip": "netherportal.org",
+		"type": "PC"
+	},
+	{
+		"name": "endportal",
+		"ip": "endportal.org",
+		"type": "PC"
+	},
+	{
+		"name": "6b6t",
+		"ip": "6b6t.org",
+		"type": "PC"
+	},
+	{
+		"name": "alacity",
+		"ip": "alacity.net",
+		"type": "PC"
+	},
+	{
+		"name": "galactic smp",
+		"ip": "mc.galacticnetwork.et",
 		"type": "PC"
 	}
 ]
